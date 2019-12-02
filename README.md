@@ -1,2 +1,2 @@
 # Quantis sp8de
-libs for generate rng
+Mac OS X libraries
