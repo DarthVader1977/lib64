@@ -1,1 +1,2 @@
-# quantis_lib
+# Quantis sp8de
+libs for generate rng
